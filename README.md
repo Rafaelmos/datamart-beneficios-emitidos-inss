@@ -20,7 +20,7 @@ O datamart foi elaborado e construido com as seguintes tecnologias:
 - O Esquema utilizado na modelagem foi o Estrela (Star Schema).
 - Paleta de Cores: Foi uma paleta com suporte ao Colorblind, chamada de Simply Modern Dark.
 
-## 📊 Modelagem, Plano de Carga<!--,  Consultas OLAP e Dashboard -->
+## 📊 Modelagem, Plano de Carga e Dashboard<!--,  Consultas OLAP  -->
 
 [Ver Modelagem](Readmes/Img/modelagem.md)</br>
 [Ver Plano de Carga](Readmes/Img/planoDeCarga.md)</br>
