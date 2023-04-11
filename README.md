@@ -22,8 +22,8 @@ O datamart foi elaborado e construido com as seguintes tecnologias:
 
 ## 📊 Modelagem, Plano de Carga<!--,  Consultas OLAP e Dashboard -->
 
-[Ver Modelagem](./Readmes/modelagem.md)</br>
-[Ver Plano de Carga](../Readmes/planoDeCarga.md)</br>
+[Ver Modelagem](Readmes/Img/modelagem.md)</br>
+[Ver Plano de Carga](Readmes/Img/planoDeCarga.md)</br>
 [Ver Dashboard](https://encurtador.com.br/nqCZ5)
 
 <!-- 
